@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Test file created
+=======
+New File in New_Features_1
+>>>>>>> New_Features_1
+Resolved Conflict
